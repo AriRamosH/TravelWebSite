@@ -54,6 +54,12 @@ div.transbox{
     opacity: 1;
     background-repeat: repeat-x;
 }
+.div2 {
+  width: auto;
+  height: auto;  
+  padding: 5px;
+  border: 1px solid black;
+}
 
  div.transbox h1{
      margin: 1%;
