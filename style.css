@@ -1,7 +1,7 @@
 body {
     background-image: url(IMG/img01.jpg);
     background-color: white;
-    font-size: 14px;
+    font-size: 18px;
     background-image: url(https://images.squarespace-cdn.com/content/v1/5b8e9316e17ba3e400af6bf6/1549449919999-IZB4YLZVWXPQNZE9KYWW/ke17ZwdGBToddI8pDm48kLPswmMOqQZ9-Q6KHLjvbpZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTcpTqfU-ZEsztPyQLxhSSK-PhJjRDDFQG0l3_ZnmWi1QjT9byXZM3ISxo3y1NRptg/001.jpg?format=1500w);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -103,7 +103,7 @@ img{
 }
 
 .footer {
-    font-size: 8px;
+    font-size: 10px;
     font-family: "MeriendaOne-Regular"; /* Font #2 */
     position: fixed;
     opacity: 0.5; 
